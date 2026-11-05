@@ -1,0 +1,710 @@
+{
+ "canvas": 512.0,
+ "angle_step": 5.0,
+ "length_step": 1.0,
+ "strokes": [
+  {
+   "start": [
+    34.0,
+    268.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 10.0,
+     "radius": 638.0,
+     "angle": -10.0
+    }
+   ]
+  },
+  {
+   "start": [
+    151.0,
+    289.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 50.0,
+     "radius": 274.0,
+     "angle": -15.0
+    },
+    {
+     "type": "arc",
+     "heading": 10.0,
+     "radius": 470.0,
+     "angle": -20.0
+    },
+    {
+     "type": "arc",
+     "heading": 320.0,
+     "radius": 810.0,
+     "angle": -5.0
+    },
+    {
+     "type": "arc",
+     "heading": 355.0,
+     "radius": 387.0,
+     "angle": -10.0
+    },
+    {
+     "type": "arc",
+     "heading": 285.0,
+     "radius": 81.0,
+     "angle": -30.0
+    }
+   ]
+  },
+  {
+   "start": [
+    486.0,
+    235.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 170.0,
+     "radius": 43.0,
+     "angle": 35.0
+    },
+    {
+     "type": "arc",
+     "heading": 250.0,
+     "radius": 10.0,
+     "angle": 140.0
+    },
+    {
+     "type": "arc",
+     "heading": 330.0,
+     "radius": 12.0,
+     "angle": 100.0
+    },
+    {
+     "type": "arc",
+     "heading": 70.0,
+     "radius": 7.0,
+     "angle": 110.0
+    }
+   ]
+  },
+  {
+   "start": [
+    485.0,
+    241.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 185.0,
+     "radius": 8.0,
+     "angle": -140.0
+    },
+    {
+     "type": "arc",
+     "heading": 105.0,
+     "radius": 8.0,
+     "angle": -115.0
+    }
+   ]
+  },
+  {
+   "start": [
+    476.0,
+    281.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "line",
+     "heading": 180.0,
+     "length": 56.0
+    }
+   ]
+  },
+  {
+   "start": [
+    416.0,
+    290.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 230.0,
+     "radius": 12.0,
+     "angle": -125.0
+    },
+    {
+     "type": "line",
+     "heading": 130.0,
+     "length": 41.0
+    },
+    {
+     "type": "line",
+     "heading": 50.0,
+     "length": 6.0
+    }
+   ]
+  },
+  {
+   "start": [
+    353.0,
+    316.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 130.0,
+     "radius": 51.0,
+     "angle": 60.0
+    },
+    {
+     "type": "arc",
+     "heading": 175.0,
+     "radius": 348.0,
+     "angle": 15.0
+    },
+    {
+     "type": "arc",
+     "heading": 225.0,
+     "radius": 448.0,
+     "angle": 10.0
+    },
+    {
+     "type": "arc",
+     "heading": 260.0,
+     "radius": 118.0,
+     "angle": 30.0
+    },
+    {
+     "type": "line",
+     "heading": 0.0,
+     "length": 165.0
+    },
+    {
+     "type": "arc",
+     "heading": 80.0,
+     "radius": 62.0,
+     "angle": -55.0
+    },
+    {
+     "type": "arc",
+     "heading": 70.0,
+     "radius": 55.0,
+     "angle": 65.0
+    },
+    {
+     "type": "line",
+     "heading": 130.0,
+     "length": 6.0
+    }
+   ]
+  },
+  {
+   "start": [
+    348.0,
+    313.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 130.0,
+     "radius": 44.0,
+     "angle": 60.0
+    },
+    {
+     "type": "line",
+     "heading": 185.0,
+     "length": 25.0
+    },
+    {
+     "type": "line",
+     "heading": 270.0,
+     "length": 43.0
+    },
+    {
+     "type": "line",
+     "heading": 0.0,
+     "length": 63.0
+    },
+    {
+     "type": "line",
+     "heading": 5.0,
+     "length": 20.0
+    },
+    {
+     "type": "arc",
+     "heading": 110.0,
+     "radius": 94.0,
+     "angle": 20.0
+    }
+   ]
+  },
+  {
+   "start": [
+    339.0,
+    321.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "line",
+     "heading": 270.0,
+     "length": 37.0
+    }
+   ]
+  },
+  {
+   "start": [
+    334.0,
+    284.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "line",
+     "heading": 90.0,
+     "length": 40.0
+    }
+   ]
+  },
+  {
+   "start": [
+    346.0,
+    273.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "line",
+     "heading": 355.0,
+     "length": 16.0
+    },
+    {
+     "type": "arc",
+     "heading": 265.0,
+     "radius": 7.0,
+     "angle": -120.0
+    },
+    {
+     "type": "arc",
+     "heading": 220.0,
+     "radius": 4.0,
+     "angle": -185.0
+    }
+   ]
+  },
+  {
+   "start": [
+    366.0,
+    235.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 210.0,
+     "radius": 34.0,
+     "angle": 360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    372.0,
+    225.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 210.0,
+     "radius": 22.0,
+     "angle": 360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    376.0,
+    221.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 25.0,
+     "radius": 17.0,
+     "angle": -360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    381.0,
+    210.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 210.0,
+     "radius": 6.0,
+     "angle": 360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    480.0,
+    218.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 240.0,
+     "radius": 23.0,
+     "angle": -70.0
+    },
+    {
+     "type": "arc",
+     "heading": 195.0,
+     "radius": 73.0,
+     "angle": -30.0
+    }
+   ]
+  },
+  {
+   "start": [
+    425.0,
+    207.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 95.0,
+     "radius": 41.0,
+     "angle": 175.0
+    }
+   ]
+  },
+  {
+   "start": [
+    348.0,
+    204.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "line",
+     "heading": 195.0,
+     "length": 16.0
+    },
+    {
+     "type": "line",
+     "heading": 180.0,
+     "length": 190.0
+    },
+    {
+     "type": "arc",
+     "heading": 95.0,
+     "radius": 56.0,
+     "angle": 60.0
+    },
+    {
+     "type": "arc",
+     "heading": 160.0,
+     "radius": 41.0,
+     "angle": 110.0
+    }
+   ]
+  },
+  {
+   "start": [
+    62.0,
+    206.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "line",
+     "heading": 185.0,
+     "length": 19.0
+    },
+    {
+     "type": "arc",
+     "heading": 185.0,
+     "radius": 11.0,
+     "angle": -95.0
+    }
+   ]
+  },
+  {
+   "start": [
+    32.0,
+    216.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 210.0,
+     "radius": 8.0,
+     "angle": -210.0
+    },
+    {
+     "type": "arc",
+     "heading": 10.0,
+     "radius": 38.0,
+     "angle": -35.0
+    },
+    {
+     "type": "arc",
+     "heading": 295.0,
+     "radius": 9.0,
+     "angle": -150.0
+    },
+    {
+     "type": "line",
+     "heading": 190.0,
+     "length": 6.0
+    }
+   ]
+  },
+  {
+   "start": [
+    25.0,
+    258.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 340.0,
+     "radius": 14.0,
+     "angle": -75.0
+    },
+    {
+     "type": "arc",
+     "heading": 300.0,
+     "radius": 5.0,
+     "angle": -145.0
+    }
+   ]
+  },
+  {
+   "start": [
+    27.0,
+    232.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 110.0,
+     "radius": 48.0,
+     "angle": -40.0
+    },
+    {
+     "type": "arc",
+     "heading": 25.0,
+     "radius": 218.0,
+     "angle": -25.0
+    },
+    {
+     "type": "line",
+     "heading": 5.0,
+     "length": 33.0
+    },
+    {
+     "type": "arc",
+     "heading": 320.0,
+     "radius": 14.0,
+     "angle": 110.0
+    },
+    {
+     "type": "line",
+     "heading": 50.0,
+     "length": 44.0
+    },
+    {
+     "type": "line",
+     "heading": 135.0,
+     "length": 7.0
+    }
+   ]
+  },
+  {
+   "start": [
+    211.0,
+    320.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 30.0,
+     "radius": 63.0,
+     "angle": -35.0
+    },
+    {
+     "type": "line",
+     "heading": 355.0,
+     "length": 21.0
+    },
+    {
+     "type": "line",
+     "heading": 265.0,
+     "length": 44.0
+    },
+    {
+     "type": "line",
+     "heading": 180.0,
+     "length": 84.0
+    },
+    {
+     "type": "line",
+     "heading": 50.0,
+     "length": 48.0
+    }
+   ]
+  },
+  {
+   "start": [
+    275.0,
+    333.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 265.0,
+     "radius": 710.0,
+     "angle": 10.0
+    }
+   ]
+  },
+  {
+   "start": [
+    246.0,
+    270.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 290.0,
+     "radius": 8.0,
+     "angle": 95.0
+    },
+    {
+     "type": "arc",
+     "heading": 320.0,
+     "radius": 4.0,
+     "angle": 250.0
+    },
+    {
+     "type": "line",
+     "heading": 190.0,
+     "length": 12.0
+    }
+   ]
+  },
+  {
+   "start": [
+    195.0,
+    282.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "line",
+     "heading": 95.0,
+     "length": 16.0
+    }
+   ]
+  },
+  {
+   "start": [
+    140.0,
+    204.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "line",
+     "heading": 180.0,
+     "length": 8.0
+    }
+   ]
+  },
+  {
+   "start": [
+    132.0,
+    202.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 265.0,
+     "radius": 34.0,
+     "angle": -360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    120.0,
+    203.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 265.0,
+     "radius": 22.0,
+     "angle": -360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    114.0,
+    205.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 90.0,
+     "radius": 17.0,
+     "angle": 360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    103.0,
+    205.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 85.0,
+     "radius": 6.0,
+     "angle": 360.0
+    }
+   ]
+  }
+ ]
+}

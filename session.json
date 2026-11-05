@@ -1,0 +1,405 @@
+[
+ {
+  "type": "jump",
+  "x": 255,
+  "y": 120,
+  "heading": "E",
+  "expect": [
+   255,
+   120
+  ]
+ },
+ {
+  "type": "curve",
+  "turn": "left",
+  "angle": 360,
+  "radius": 130,
+  "expect": [
+   255,
+   120
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 165,
+  "y": 345,
+  "heading": "NNW",
+  "expect": [
+   165,
+   345
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "NNW",
+  "length": 80,
+  "expect": [
+   134,
+   419
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "ESE",
+  "length": 85,
+  "expect": [
+   212,
+   386
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 295,
+  "y": 385,
+  "heading": "ENE",
+  "expect": [
+   295,
+   385
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "ENE",
+  "length": 85,
+  "expect": [
+   374,
+   418
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "SSE",
+  "length": 80,
+  "expect": [
+   405,
+   344
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "SW",
+  "length": 20,
+  "expect": [
+   390,
+   330
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 205,
+  "y": 260,
+  "heading": "E",
+  "expect": [
+   205,
+   260
+  ]
+ },
+ {
+  "type": "curve",
+  "turn": "left",
+  "angle": 360,
+  "radius": 15,
+  "expect": [
+   205,
+   260
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 305,
+  "y": 260,
+  "heading": "E",
+  "expect": [
+   305,
+   260
+  ]
+ },
+ {
+  "type": "curve",
+  "turn": "left",
+  "angle": 360,
+  "radius": 15,
+  "expect": [
+   305,
+   260
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 405,
+  "y": 345,
+  "heading": "SW",
+  "expect": [
+   405,
+   345
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "SW",
+  "length": 25,
+  "expect": [
+   387,
+   327
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 205,
+  "y": 270,
+  "heading": "N",
+  "expect": [
+   205,
+   270
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "N",
+  "length": 10,
+  "expect": [
+   205,
+   280
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 305,
+  "y": 270,
+  "heading": "N",
+  "expect": [
+   305,
+   270
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "N",
+  "length": 10,
+  "expect": [
+   305,
+   280
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 385,
+  "y": 325,
+  "heading": "SW",
+  "expect": [
+   385,
+   325
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "SW",
+  "length": 40,
+  "expect": [
+   357,
+   297
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 245,
+  "y": 225,
+  "heading": "E",
+  "expect": [
+   245,
+   225
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "E",
+  "length": 20,
+  "expect": [
+   265,
+   225
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "WSW",
+  "length": 15,
+  "expect": [
+   251,
+   219
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "NNW",
+  "length": 10,
+  "expect": [
+   247,
+   228
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 255,
+  "y": 215,
+  "heading": "S",
+  "expect": [
+   255,
+   215
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "S",
+  "length": 15,
+  "expect": [
+   255,
+   200
+  ]
+ },
+ {
+  "type": "curve",
+  "heading": "S",
+  "turn": "right",
+  "angle": 180,
+  "radius": 15,
+  "expect": [
+   225,
+   200
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 255,
+  "y": 200,
+  "heading": "S",
+  "expect": [
+   255,
+   200
+  ]
+ },
+ {
+  "type": "curve",
+  "heading": "S",
+  "turn": "left",
+  "angle": 180,
+  "radius": 15,
+  "expect": [
+   285,
+   200
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 210,
+  "y": 205,
+  "heading": "W",
+  "expect": [
+   210,
+   205
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "W",
+  "length": 80,
+  "expect": [
+   130,
+   205
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 210,
+  "y": 215,
+  "heading": "WNW",
+  "expect": [
+   210,
+   215
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "WNW",
+  "length": 80,
+  "expect": [
+   136,
+   246
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 210,
+  "y": 195,
+  "heading": "WSW",
+  "expect": [
+   210,
+   195
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "WSW",
+  "length": 80,
+  "expect": [
+   136,
+   164
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 300,
+  "y": 205,
+  "heading": "E",
+  "expect": [
+   300,
+   205
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "E",
+  "length": 80,
+  "expect": [
+   380,
+   205
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 300,
+  "y": 215,
+  "heading": "ENE",
+  "expect": [
+   300,
+   215
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "ENE",
+  "length": 80,
+  "expect": [
+   374,
+   246
+  ]
+ },
+ {
+  "type": "jump",
+  "x": 300,
+  "y": 195,
+  "heading": "ESE",
+  "expect": [
+   300,
+   195
+  ]
+ },
+ {
+  "type": "line",
+  "heading": "ESE",
+  "length": 80,
+  "expect": [
+   374,
+   164
+  ]
+ }
+]

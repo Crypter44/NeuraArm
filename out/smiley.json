@@ -1,0 +1,73 @@
+{
+ "canvas": 512.0,
+ "angle_step": 5.0,
+ "length_step": 1.0,
+ "strokes": [
+  {
+   "start": [
+    90.0,
+    422.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 225.0,
+     "radius": 234.0,
+     "angle": 360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    162.0,
+    350.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 225.0,
+     "radius": 20.0,
+     "angle": 360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    315.0,
+    339.0
+   ],
+   "closed": true,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 260.0,
+     "radius": 20.0,
+     "angle": 360.0
+    }
+   ]
+  },
+  {
+   "start": [
+    370.0,
+    195.0
+   ],
+   "closed": false,
+   "segments": [
+    {
+     "type": "arc",
+     "heading": 240.0,
+     "radius": 127.0,
+     "angle": -65.0
+    },
+    {
+     "type": "arc",
+     "heading": 175.0,
+     "radius": 148.0,
+     "angle": -50.0
+    }
+   ]
+  }
+ ]
+}
